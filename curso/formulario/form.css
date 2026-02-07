@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+
+
+
+.form{
+    display: flex;
+    width:350px;
+    height: 350px;
+    border: 5px solid #000;
+    justify-content: center;
+    margin-left: 470px;
+    margin-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000;
+    flex-direction: column;
+    background-image: linear-gradient(to bottom,violet, pink);
+    font-size:20px;
+}
+.Nome{
+margin-right: 120px;
+padding-bottom: 15px;
+margin-left: 5px;
+
+
+}
+.EMAIL{
+margin-right: 120px;
+padding-bottom: 1px;
+margin-left: 5px;
+}
+.celular{
+margin-right: 100px;
+padding-bottom: 15px;
+margin-left: 5px;
+
+
+}
+
+.genero{
+margin-right: 115px;
+padding-bottom: 15px;
+margin-left: 5px;
+
+
+}
+
+.tittle{
+    font-size: 30px;
+    margin-bottom:6px;
+    margin-left: 35px;
+    color:#000
+}

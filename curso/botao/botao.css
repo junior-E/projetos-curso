@@ -1,0 +1,25 @@
+body{           
+padding: 0;
+margin-left: 200px;
+margin-top: 200px;
+font-family:Cursive;
+}
+
+.botao, a{
+    text-align: center;
+    text-decoration: none;
+    background: linear-gradient(to bottom,#4388b1, #02a1fd);
+    color: #ffffff;
+    font-size: 40px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 4);
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 4);
+
+}
+.botao:hover{
+    background:linear-gradient(to top, #5772eb, #013e61);
+
+}
+

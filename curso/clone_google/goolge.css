@@ -1,0 +1,60 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #4c4c4c;
+}
+.pesquisa{
+    width: 400px;
+    height: 45px;  
+    margin-left:500px;
+    margin-top: 400px;
+    border-radius: 10px;
+    border: 1px solid #000;
+    background-color: #5c5c5c;
+     
+}
+.quadradinhos{
+display: flex;
+width: 400px;
+height: 45px;  
+margin-left:500px;
+margin-top: 10px;
+align-items: center;
+font-family:'Courier New', Courier, monospace;
+text-align: center;
+text-decoration: none;
+}
+.fotos{
+    width:80px;
+    height: 36px;
+    margin: 10px;
+    border: 1px solid #fff;
+    border-radius: 10px;
+    text-decoration: none;
+
+ }
+
+.sorte{   
+    width:80px;
+    height: 36px;
+    margin: 10px;
+    border: 1px solid #fff;
+    border-radius: 10px;
+    text-decoration: none;
+   
+    
+    
+}
+.container{ 
+display: flex;
+align-items: center;
+margin-left: 100px;
+
+}
+
+.container a {
+
+text-decoration: none;
+color:#fff;
+
+}
